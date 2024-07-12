@@ -1,30 +1,16 @@
-# React + TypeScript + Vite
+## Highlight something in your project that you thought was especially interesting or significant to your overall implementation.
+I feel like Chakra UI played an important role with me being able to add styling to the app and accessibility.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Tell us what you are most pleased or proud of with your implementation.
+I am proud of the implementation of Tanstack Query. It helped minimize code and cleaned the code base.
 
-Currently, two official plugins are available:
+## Given more time, what next feature or improvement would you like to add
+to your project?
+If I had more time I would improved the search request. At the moment its making request every time a letter is typed.
+I would also add unlimited scrolling, darkmode and better styling.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
-
-- Configure the top-level `parserOptions` property like this:
-
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+![Screenshot 2024-07-12 174809](https://github.com/user-attachments/assets/b06c9d22-db9b-47b2-b96c-ceb50c40b17d)
+![Screenshot 2024-07-12 174903](https://github.com/user-attachments/assets/0bef197a-44a9-4d06-92cd-15946dfefb76)
+![Screenshot 2024-07-12 182149](https://github.com/user-attachments/assets/2dfcdda7-3302-4fdf-b6f4-a2825e723f5f)
