@@ -63,7 +63,7 @@ function App() {
           ))}
         </Select>
       </Flex>
-      <MovieList movies={movies} />
+      <MovieList movies={movies} search={watch("search")} />
     </Flex>
   );
 }
